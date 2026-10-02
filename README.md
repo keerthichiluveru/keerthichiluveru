@@ -1,152 +1,167 @@
-# Hi, I'm Keerthi Chiluveru 👋
+<div align="center">
 
-### Financial BI Analyst | Power BI Developer | Power BI Analyst
+# Keerthi Chiluveru
 
-I’m a Business Intelligence and Analytics professional with 5+ years of experience building enterprise reporting, financial analytics, semantic models, and data-driven decision support solutions.
+### Financial BI Analyst · Power BI Developer · Power BI Analyst
 
-My work focuses on transforming complex financial, operational, and enterprise data into reliable dashboards, KPI reporting, executive insights, and scalable BI solutions.
+**Power BI · DAX · SQL · Microsoft Fabric · Azure Databricks · Financial Analytics**
 
----
+<br>
 
-## 🔹 What I Work On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchiluveru/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.chiluveru07@gmail.com)
 
-- Financial reporting and analytics
-- Budgeting and forecasting support
-- Actual vs. budget and variance analysis
-- Revenue and expense analytics
-- Cost center reporting
-- Labor and headcount analytics
-- Executive dashboards and KPI scorecards
-- Power BI semantic modeling
-- SQL-based data analysis and validation
-- Data reconciliation and quality checks
-- ETL / ELT workflows
-- Microsoft Fabric analytics
-- Azure Databricks and Delta Lake
-- Power BI administration and governance
-- AI-assisted analytics with Microsoft Copilot
+</div>
 
 ---
 
-## 🛠 Tech Stack
+I build **business intelligence, financial analytics, and enterprise reporting solutions** that transform complex financial and operational data into reliable dashboards, governed semantic models, KPI reporting, and executive decision support.
 
-### Business Intelligence
-Power BI Desktop · Power BI Service · Tableau · Qlik · SSRS · Report Builder · Paginated Reports
+My work spans the full analytics lifecycle:
 
-### Data Modeling & Analytics
-DAX · Power Query · Semantic Models · Star Schema · Dimensional Modeling · Time Intelligence · KPI Design
+**Data → Transformation → Modeling → Validation → Reporting → Business Insight**
 
-### SQL & Data Engineering
+I work across **financial services, healthcare, energy, and manufacturing analytics**, with a strong focus on Power BI, SQL, financial reporting, Microsoft Fabric, data quality, and enterprise BI.
+
+---
+
+## What I'm Building
+
+| Project | What it demonstrates |
+|---|---|
+| **Healthcare Financial Analytics** | Budgeting, forecasting, actual-vs-budget analysis, revenue and expense analytics, cost-center reporting, labor/headcount reporting, and executive financial KPIs |
+| **Banking Data Quality & KPI Reporting** | SQL validation, reconciliation, semantic modeling, operational KPIs, executive dashboards, and reporting controls |
+| **Manufacturing Performance Analytics** | Production throughput, yield, capacity utilization, downtime, inventory, and plant-performance reporting |
+| **Energy Operations Analytics** | Operational KPI reporting, data transformation, reconciliation, data-quality monitoring, and analytical reporting |
+| **Enterprise Semantic Modeling** | Star schemas, reusable DAX measures, fact/dimension modeling, governed KPI definitions, and performance optimization |
+| **Microsoft Fabric Analytics Pipeline** | Lakehouse architecture, Dataflows Gen2, Data Pipelines, semantic models, and Power BI integration |
+
+---
+
+## Core Capabilities
+
+**Financial Analytics**
+
+Budgeting · Forecasting · Actual vs. Budget · Variance Analysis · Revenue & Expense Analysis · Cost Center Reporting · Labor & Headcount Analytics · Financial KPIs
+
+**Business Intelligence**
+
+Power BI Desktop · Power BI Service · Executive Dashboards · KPI Scorecards · Data Storytelling · Tableau · Qlik · SSRS · Paginated Reports
+
+**Data Modeling**
+
+DAX · Power Query · Semantic Models · Star Schema · Dimensional Modeling · Fact & Dimension Tables · Relationships · Time Intelligence
+
+**SQL & Data Engineering**
+
 SQL · T-SQL · SQL Server · Azure SQL · Oracle · PL/SQL · Azure Databricks · Delta Lake · SSIS · ETL/ELT · Python
 
-### Microsoft Fabric
+**Microsoft Fabric**
+
 Lakehouse · Data Pipelines · Dataflows Gen2 · Semantic Models · Power BI Integration
 
-### Power BI Administration
-Workspaces · Gateways · Scheduled Refresh · Row-Level Security · Performance Optimization · Validation · Reconciliation
+**Governance & Delivery**
 
-### Financial Analytics
-Budgeting · Forecasting · Variance Analysis · Revenue & Expense Analysis · Cost Center Reporting · Labor & Headcount Analytics · Financial KPIs
+Row-Level Security · Gateways · Scheduled Refresh · Data Validation · Reconciliation · UAT · Performance Optimization · Production Support
 
 ---
 
-## 📊 Featured Portfolio Projects
+## Tech Stack
 
-### Healthcare Financial BI Analytics
-Financial performance reporting focused on budgeting, forecasting, revenue, expenses, cost centers, workforce analytics, and executive KPIs.
+### Business Intelligence
 
-**Tools:** Power BI · DAX · SQL · Microsoft Fabric · Power Query
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
 
----
+### Data & Analytics
 
-### Banking Data Quality & KPI Reporting
-Enterprise reporting and validation framework covering KPI reporting, transaction analysis, data reconciliation, exception monitoring, and executive reporting.
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-**Tools:** Power BI · SQL · Python · Azure Databricks · Delta Lake
+### Data Engineering
 
----
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Manufacturing Performance Analytics
-Operational analytics covering production, throughput, yield, capacity utilization, downtime, inventory, and plant performance.
+### Analytics Specialization
 
-**Tools:** Power BI · DAX · SQL · Power Query · Qlik
-
----
-
-### Energy Operations Analytics
-Operational energy reporting with data transformation, reconciliation, KPI monitoring, and data-quality analysis.
-
-**Tools:** Power BI · SQL · Power Query · Azure Databricks · SSIS
-
----
-
-## 🧠 Areas of Expertise
-
-- Enterprise Power BI Development
-- Financial & Business Intelligence
-- Semantic Modeling
-- Advanced DAX
-- SQL & Data Transformation
-- Dashboard Performance Optimization
-- Data Validation & Reconciliation
-- Executive Reporting
-- KPI Design
-- Power BI Governance
-- Microsoft Fabric
-- Azure Databricks
-- Data Quality
-- Reporting Automation
-- Stakeholder Requirements & UAT
+![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=flat-square)
+![Semantic Models](https://img.shields.io/badge/Semantic%20Models-Enterprise%20BI-purple?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%2FELT-Data%20Engineering-orange?style=flat-square)
 
 ---
 
-## 📂 Portfolio Approach
+## Analytics Domains
 
-My portfolio projects are designed to demonstrate the complete BI lifecycle:
+### Financial & Healthcare Analytics
+Financial planning and reporting, budgeting, forecasting, variance analysis, cost-center reporting, workforce analytics, revenue and expense analysis, and executive financial reporting.
 
-**Business Problem → Data Preparation → Data Model → DAX / SQL → Validation → Dashboard → Insights**
+### Banking & Financial Services
+Enterprise dashboards, KPI scorecards, data reconciliation, SQL validation, semantic modeling, reporting automation, and governed analytics.
 
-Portfolio projects use synthetic or appropriately licensed data and do not include confidential employer or customer information.
+### Manufacturing Analytics
+Production reporting, throughput, yield, inventory, capacity utilization, downtime analysis, resource utilization, and plant-performance analytics.
 
----
-
-## ✍️ Technical Topics I Explore
-
-- Power BI semantic modeling
-- Advanced DAX patterns
-- KPI design and validation
-- SQL reconciliation techniques
-- Data-quality checks
-- Power BI performance optimization
-- Microsoft Fabric architecture
-- Executive dashboard design
-- Row-Level Security
-- Power BI deployment and governance
-- AI-assisted BI development
+### Energy Analytics
+Operational dashboards, energy-data transformation, reporting pipelines, validation, reconciliation, and data-quality monitoring.
 
 ---
 
-## 🎓 Education
+## How I Approach BI Projects
 
-**M.S. Computer Science**  
-Governors State University
+> **Reliable analytics starts before the dashboard.**
 
-**B.S. Computer Science**  
-GITAM University
+I focus on clearly defined business questions, correct data grain, governed semantic models, reusable calculations, reconciliation, validation, security, performance, and understandable visualization.
 
----
+My goal is not simply to create reports.
 
-## 📫 Connect With Me
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/kchiluveru/
-
-🌐 Portfolio:  
-YOUR-PORTFOLIO-URL-HERE
-
-📍 Tennessee, USA
+My goal is to create **analytics products people can trust and use to make decisions.**
 
 ---
 
-### Currently building
-Power BI, Financial BI, Data Analytics, Microsoft Fabric, SQL, and Data Engineering projects with documented case studies, dashboards, and technical implementations.
+## AI-Assisted Analytics
+
+I also work with:
+
+**Microsoft Copilot · Power BI Copilot · AI-Assisted Analytics · AI-Assisted Documentation**
+
+I use AI as an accelerator for analytical development, documentation, exploration, and formula assistance while validating outputs against governed data and established business logic.
+
+---
+
+## Portfolio Standards
+
+All public portfolio demonstrations use **synthetic or appropriately licensed data**.
+
+No confidential employer, customer, production, financial, or personally identifiable data is published.
+
+Each completed repository is intended to document:
+
+**Business Problem → Dataset → Data Model → Transformation → Measures → Validation → Dashboard → Insights**
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities across:
+
+**Financial BI · Power BI Development · Business Intelligence · Data Analytics · Reporting & Analytics Engineering**
+
+📍 Nashville, Tennessee, USA
+
+📧 **k.chiluveru07@gmail.com**
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/kchiluveru/)**
+
+---
+
+<div align="center">
+
+### Turning complex data into dependable business insight.
+
+</div>
