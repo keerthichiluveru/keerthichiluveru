@@ -1,167 +1,384 @@
+
 <div align="center">
 
-# Keerthi Chiluveru
+# KEERTHI CHILUVERU
 
-### Financial BI Analyst · Power BI Developer · Power BI Analyst
+### FINANCIAL BI ANALYST • POWER BI DEVELOPER • DATA ANALYTICS
 
-**Power BI · DAX · SQL · Microsoft Fabric · Azure Databricks · Financial Analytics**
+**Building trusted data solutions that transform financial complexity into business clarity.**
 
-<br>
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Financial Analytics](https://img.shields.io/badge/FINANCIAL_ANALYTICS-7C3AED?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/MICROSOFT_FABRIC-0891B2?style=for-the-badge)
+![DAX](https://img.shields.io/badge/ADVANCED_DAX-DB2777?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchiluveru/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.chiluveru07@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchiluveru/)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthichiluveru)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.chiluveru07@gmail.com)
+
+
+📍 Nashville, Tennessee, USA
 
 </div>
 
 ---
 
-I build **business intelligence, financial analytics, and enterprise reporting solutions** that transform complex financial and operational data into reliable dashboards, governed semantic models, KPI reporting, and executive decision support.
+## 📊 PROFESSIONAL SNAPSHOT
 
-My work spans the full analytics lifecycle:
+<table>
+<tr>
+<td width="33%" align="center">
 
-**Data → Transformation → Modeling → Validation → Reporting → Business Insight**
+### 📈 FINANCIAL BI
 
-I work across **financial services, healthcare, energy, and manufacturing analytics**, with a strong focus on Power BI, SQL, financial reporting, Microsoft Fabric, data quality, and enterprise BI.
+Budgeting & Forecasting
+
+Variance Analysis
+
+Financial KPIs
+
+</td>
+<td width="33%" align="center">
+
+### 🏗️ DATA SOLUTIONS
+
+SQL & Data Modeling
+
+Power Query & ETL
+
+Data Validation
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ BI DELIVERY
+
+Power BI & DAX
+
+Executive Dashboards
+
+Reporting Automation
+
+</td>
+</tr>
+</table>
+
+> **Data Integration → Transformation → Modeling → Validation → Visualization → Business Insights**
+
+Financial BI Analyst and Power BI Developer with 5+ years of experience in business intelligence, financial reporting, and data analytics. Skilled in translating complex business requirements into scalable semantic models, interactive Power BI dashboards, and decision-ready financial insights.
+
+Focused on advanced DAX, SQL, budgeting and forecasting, financial variance analysis, reporting automation, and data validation.
 
 ---
 
-## What I'm Building
+## 🛠️ TECHNICAL EXPERTISE
 
-| Project | What it demonstrates |
+### 📊 Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-2563EB?style=for-the-badge)
+![Qlik](https://img.shields.io/badge/QLIK-009848?style=for-the-badge)
+![DAX](https://img.shields.io/badge/ADVANCED_DAX-7C3AED?style=for-the-badge)
+
+**Core Expertise**
+
+- **BI Platforms:** Power BI Desktop & Service • Tableau • Qlik • Paginated Reports • Report Builder
+- **Reporting & Visualization:** Executive Dashboards • KPI Scorecards • Financial Dashboards • Custom Visuals
+- **BI Development:** Advanced DAX • Power Query (M) • Interactive Reporting • Performance Optimization
+
+---
+
+### 💰 Financial Analytics
+
+![Budgeting](https://img.shields.io/badge/BUDGETING_&_FORECASTING-7C3AED?style=for-the-badge)
+![Variance](https://img.shields.io/badge/VARIANCE_ANALYSIS-DB2777?style=for-the-badge)
+![Financial KPIs](https://img.shields.io/badge/FINANCIAL_KPIs-0891B2?style=for-the-badge)
+![Cost Centers](https://img.shields.io/badge/COST_CENTER_ANALYTICS-059669?style=for-the-badge)
+
+**Core Expertise**
+
+- **Financial Planning:** Budgeting & Forecasting • Financial Performance Reporting • Scenario Analysis
+- **Financial Analysis:** Actual vs. Budget • Actual vs. Forecast • Variance Analysis • Revenue & Expense Reporting
+- **Financial Controls:** Cost Center Analytics • Financial KPIs • Reconciliation • Financial Data Validation
+
+---
+
+### 🏗️ Data Modeling & Analytics Engineering
+
+![Star Schema](https://img.shields.io/badge/STAR_SCHEMA-2563EB?style=for-the-badge)
+![Semantic Models](https://img.shields.io/badge/SEMANTIC_MODELS-7C3AED?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL_ELT-0891B2?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/DATA_QUALITY-059669?style=for-the-badge)
+
+**Core Expertise**
+
+- **Data Architecture:** Star Schema • Dimensional Modeling • Fact & Dimension Tables • Relationship Management
+- **Semantic Modeling:** Power BI Semantic Models • Advanced DAX • Filter Context • Measure Optimization
+- **Analytics Engineering:** ETL/ELT • Data Integration • Data Transformation • Quality Checks • Reconciliation
+
+---
+
+### 🗄️ SQL & Data Engineering
+
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/SNOWFLAKE-29B5E8?style=for-the-badge)
+
+**Core Expertise**
+
+- **Databases:** SQL Server • Azure SQL • Oracle • PostgreSQL • Snowflake
+- **SQL Development:** SQL • T-SQL • SQL Query Optimization • Data Extraction • Data Transformation
+- **Data Integration:** SSIS • ETL/ELT • Data Reconciliation • Data Quality Validation
+
+---
+
+### ☁️ Cloud & Modern Data Platforms
+
+![Fabric](https://img.shields.io/badge/MICROSOFT_FABRIC-0891B2?style=for-the-badge)
+![Azure](https://img.shields.io/badge/MICROSOFT_AZURE-0078D4?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Core Expertise**
+
+- **Microsoft Fabric:** Fabric Lakehouse • Data Warehouse • Dataflows Gen2 • Fabric Semantic Models
+- **Microsoft Azure:** Azure SQL • Azure Data Services • Data Pipelines
+- **Modern Data Platforms:** Azure Databricks • Delta Lake • Cloud Data Integration
+
+---
+
+### 🔐 BI Governance & Enterprise Delivery
+
+![Security](https://img.shields.io/badge/ROW_LEVEL_SECURITY-DC2626?style=for-the-badge)
+![Power BI Service](https://img.shields.io/badge/POWER_BI_SERVICE-F2C811?style=for-the-badge&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI_CD-2563EB?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT_&_TESTING-059669?style=for-the-badge)
+
+**Core Expertise**
+
+- **Security & Governance:** Row-Level Security • Workspace Administration • Access Controls • Reporting Standards
+- **Enterprise Operations:** Power BI Gateway • Scheduled Refresh • Incremental Refresh • Import & DirectQuery
+- **Delivery & Quality:** Deployment Pipelines • Git/GitHub • CI/CD • UAT • Testing • Documentation • Performance Tuning
+
+---
+
+### 🤖 Automation & AI-Assisted Analytics
+
+![Power Automate](https://img.shields.io/badge/POWER_AUTOMATE-2563EB?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Copilot](https://img.shields.io/badge/MICROSOFT_COPILOT-7C3AED?style=for-the-badge)
+
+**Core Expertise**
+
+- **Workflow Automation:** Power Automate • Power Apps • Reporting Automation
+- **Development & Integration:** Python • PowerShell • API Integration • Git & GitHub
+- **AI-Assisted Analytics:** Microsoft Copilot • Power BI Copilot • AI-Assisted Documentation
+
+---
+
+## 🎯 AREAS OF FOCUS
+
+| 💼 Business Analytics | ⚙️ Technical Delivery |
 |---|---|
-| **Healthcare Financial Analytics** | Budgeting, forecasting, actual-vs-budget analysis, revenue and expense analytics, cost-center reporting, labor/headcount reporting, and executive financial KPIs |
-| **Banking Data Quality & KPI Reporting** | SQL validation, reconciliation, semantic modeling, operational KPIs, executive dashboards, and reporting controls |
-| **Manufacturing Performance Analytics** | Production throughput, yield, capacity utilization, downtime, inventory, and plant-performance reporting |
-| **Energy Operations Analytics** | Operational KPI reporting, data transformation, reconciliation, data-quality monitoring, and analytical reporting |
-| **Enterprise Semantic Modeling** | Star schemas, reusable DAX measures, fact/dimension modeling, governed KPI definitions, and performance optimization |
-| **Microsoft Fabric Analytics Pipeline** | Lakehouse architecture, Dataflows Gen2, Data Pipelines, semantic models, and Power BI integration |
+| Financial planning and reporting | Semantic models and DAX |
+| Budgeting and forecasting | ETL and SQL transformations |
+| Revenue and expense analysis | Data quality and validation |
+| Cost center performance | Power BI development |
+| Executive KPI reporting | BI security and governance |
+| Operational performance analytics | Reporting automation |
+| Healthcare financial analytics | Microsoft Fabric and cloud analytics |
 
 ---
 
-## Core Capabilities
+## 🚀 FEATURED PROJECT
 
-**Financial Analytics**
+### 🏥 Healthcare Financial BI Analytics
 
-Budgeting · Forecasting · Actual vs. Budget · Variance Analysis · Revenue & Expense Analysis · Cost Center Reporting · Labor & Headcount Analytics · Financial KPIs
+**Power BI | DAX | SQL | Power Query | Financial Reporting | Data Validation**
 
-**Business Intelligence**
+An independent end-to-end financial analytics portfolio project using synthetic healthcare financial data.
 
-Power BI Desktop · Power BI Service · Executive Dashboards · KPI Scorecards · Data Storytelling · Tableau · Qlik · SSRS · Paginated Reports
+The solution demonstrates how healthcare finance teams can analyze spending, monitor budgets, compare forecasts, investigate cost center performance, and validate financial results.
 
-**Data Modeling**
+### Key Capabilities
 
-DAX · Power Query · Semantic Models · Star Schema · Dimensional Modeling · Fact & Dimension Tables · Relationships · Time Intelligence
+- Executive financial dashboards
+- Actual vs. budget and forecast comparisons
+- Department and cost center analysis
+- Financial variance calculations
+- Budget utilization monitoring
+- Forecast variance analysis
+- Interactive filtering and financial KPIs
+- Financial reconciliation and validation evidence
 
-**SQL & Data Engineering**
 
-SQL · T-SQL · SQL Server · Azure SQL · Oracle · PL/SQL · Azure Databricks · Delta Lake · SSIS · ETL/ELT · Python
+### 📸 DASHBOARD SHOWCASE
 
-**Microsoft Fabric**
+<div align="center">
 
-Lakehouse · Data Pipelines · Dataflows Gen2 · Semantic Models · Power BI Integration
+### 🏆 FEATURED | Advanced Financial Analytics
 
-**Governance & Delivery**
+**Financial KPIs • Budget Utilization • Forecast Variance • Department Performance**
 
-Row-Level Security · Gateways · Scheduled Refresh · Data Validation · Reconciliation · UAT · Performance Optimization · Production Support
+<img src="https://raw.githubusercontent.com/keerthichiluveru/healthcare-financial-bi-analytics/main/advanced-financial-analysis.png" width="100%" alt="Advanced Healthcare Financial Analytics Dashboard">
 
----
+</div>
 
-## Tech Stack
+### Explore Additional Dashboards
 
-### Business Intelligence
+<table>
+<tr>
+<td width="50%" align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
+<a href="https://github.com/keerthichiluveru/healthcare-financial-bi-analytics/blob/main/executive-financial-overview.png">
+<img src="https://raw.githubusercontent.com/keerthichiluveru/healthcare-financial-bi-analytics/main/executive-financial-overview.png" width="100%" alt="Executive Financial Overview">
+</a>
 
-### Data & Analytics
+**Executive Financial Overview**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+Actual vs. Budget • Forecast Trends • Financial KPIs
 
-### Data Engineering
+</td>
+<td width="50%" align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<a href="https://github.com/keerthichiluveru/healthcare-financial-bi-analytics/blob/main/cost-center-department-financial-analysis.png">
+<img src="https://raw.githubusercontent.com/keerthichiluveru/healthcare-financial-bi-analytics/main/cost-center-department-financial-analysis.png" width="100%" alt="Cost Center and Department Analysis">
+</a>
 
-### Analytics Specialization
+**Cost Center & Department Analysis**
 
-![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=flat-square)
-![Semantic Models](https://img.shields.io/badge/Semantic%20Models-Enterprise%20BI-purple?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL%2FELT-Data%20Engineering-orange?style=flat-square)
+Department Spending • Cost Center Performance • Budget Variances
 
----
+</td>
+</tr>
+</table>
 
-## Analytics Domains
+<div align="center">
 
-### Financial & Healthcare Analytics
-Financial planning and reporting, budgeting, forecasting, variance analysis, cost-center reporting, workforce analytics, revenue and expense analysis, and executive financial reporting.
+[![Explore Complete Project](https://img.shields.io/badge/EXPLORE_COMPLETE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthichiluveru/healthcare-financial-bi-analytics)
 
-### Banking & Financial Services
-Enterprise dashboards, KPI scorecards, data reconciliation, SQL validation, semantic modeling, reporting automation, and governed analytics.
-
-### Manufacturing Analytics
-Production reporting, throughput, yield, inventory, capacity utilization, downtime analysis, resource utilization, and plant-performance analytics.
-
-### Energy Analytics
-Operational dashboards, energy-data transformation, reporting pipelines, validation, reconciliation, and data-quality monitoring.
+</div>
 
 ---
 
-## How I Approach BI Projects
+## 🧩 ANALYTICS PROJECT ROADMAP
 
-> **Reliable analytics starts before the dashboard.**
+| Project | Focus | Status |
+|---|---|---|
+| 🏥 Healthcare Financial BI Analytics | Financial reporting, Power BI, DAX, reconciliation | Completed |
+| 🏗️ Analytics Engineering & Data Quality | SQL, dimensional modeling, ETL, validation | Planned |
+| 📈 Financial Forecasting & Scenario Analysis | Budgeting, forecasting, financial modeling | Planned |
+| ⚙️ Power BI Delivery Automation | Governance, testing, deployment, reporting automation | Planned |
 
-I focus on clearly defined business questions, correct data grain, governed semantic models, reusable calculations, reconciliation, validation, security, performance, and understandable visualization.
-
-My goal is not simply to create reports.
-
-My goal is to create **analytics products people can trust and use to make decisions.**
-
----
-
-## AI-Assisted Analytics
-
-I also work with:
-
-**Microsoft Copilot · Power BI Copilot · AI-Assisted Analytics · AI-Assisted Documentation**
-
-I use AI as an accelerator for analytical development, documentation, exploration, and formula assistance while validating outputs against governed data and established business logic.
+These independent projects demonstrate practical capabilities across business intelligence, financial analytics, analytics engineering, and enterprise reporting delivery.
 
 ---
 
-## Portfolio Standards
+## 🏢 INDUSTRY EXPERIENCE
 
-All public portfolio demonstrations use **synthetic or appropriately licensed data**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-No confidential employer, customer, production, financial, or personally identifiable data is published.
+### 🏥 Healthcare
 
-Each completed repository is intended to document:
+- Financial performance reporting
+- Budget and expense analysis
+- Cost center analytics
+- Operational KPI dashboards
+- Financial reconciliation
 
-**Business Problem → Dataset → Data Model → Transformation → Measures → Validation → Dashboard → Insights**
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Banking & Financial Services
+
+- Financial dashboards
+- Revenue and expense reporting
+- Budget variance analysis
+- Executive reporting
+- Financial KPI monitoring
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🏭 Manufacturing
+
+- Operational reporting
+- Cost analysis
+- Performance monitoring
+- Business intelligence solutions
+
+</td>
+<td valign="top">
+
+### ⚡ Enterprise Analytics
+
+- Data integration
+- Reporting modernization
+- Semantic modeling
+- Analytics governance
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## 🔄 END-TO-END ANALYTICS DELIVERY
 
-I'm interested in opportunities across:
+```mermaid
+flowchart LR
+    A[Business Requirements] --> B[Data Integration]
+    B --> C[ETL and Transformation]
+    C --> D[Dimensional Modeling]
+    D --> E[Data Validation]
+    E --> F[Power BI Dashboards]
+    F --> G[Business Decisions]
+```
 
-**Financial BI · Power BI Development · Business Intelligence · Data Analytics · Reporting & Analytics Engineering**
+My focus is on delivering analytics solutions that are accurate, maintainable, understandable, and aligned with business decisions.
 
-📍 Nashville, Tennessee, USA
+---
 
-📧 **k.chiluveru07@gmail.com**
+## 📌 WHAT I PRIORITIZE
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/kchiluveru/)**
+| Priority | Approach |
+|---|---|
+| 🎯 Business Alignment | Define KPIs around business requirements |
+| 🧱 Reliable Data Models | Build reusable and scalable semantic models |
+| 🧮 Financial Accuracy | Reconcile totals and validate calculations |
+| ⚡ Performance | Optimize queries, measures, and reports |
+| 🔐 Security | Apply appropriate data access controls |
+| 📊 Usability | Create clear and decision-ready dashboards |
+| 📚 Documentation | Make solutions understandable and maintainable |
+| 🔄 Delivery Quality | Support testing, deployment, and ongoing reporting |
+
+---
+
+## 🌐 PROFESSIONAL LINKS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchiluveru/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECT_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthichiluveru?tab=repositories)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Turning complex data into dependable business insight.
+### DATA • FINANCE • ANALYTICS • BUSINESS IMPACT
+
+**Turning complex data into trusted insights and better business decisions.**
+
+Power BI • Financial Analytics • SQL • DAX • Microsoft Fabric
 
 </div>
